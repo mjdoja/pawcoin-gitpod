@@ -3,7 +3,7 @@ image:
   file: .gitpod.Dockerfile
 
 tasks:
-  - name: Setup Environment
+  - name: Setup WAX Dev Env
     init: |
-      echo "WAX Gitpod Env Ready"
+      echo "Welcome to WAX token deploy"
     command: bash

@@ -1,2 +1,2 @@
-# Gitpod EOSIO Token Project
-This project is ready for Gitpod-based deployment of an eosio.token contract.
+# Gitpod WAX Token Deploy
+This Gitpod project is configured to work with WAX smart contract deployment using cleos.
