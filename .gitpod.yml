@@ -1,0 +1,9 @@
+
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - name: Setup Environment
+    init: |
+      echo "WAX Gitpod Env Ready"
+    command: bash
